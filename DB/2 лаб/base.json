@@ -1,0 +1,20 @@
+[{
+    "name":"Eren",
+    "secondName": "Yeger",
+    "surname": "Zahar",
+    "dateOfBirth": "18.11.2000",
+    "course": 4,
+    "directionOfStudy": 515,
+    "group": 45,
+    "language": ["English", "Russia"]
+},
+{
+    "name": "Shon",
+    "secondName": "Johnson",
+    "surname": "O'neal",
+    "dateOfBirth": "29.09.2000",
+    "course": 3,
+    "directionOfStudy": 913,
+    "group": 711,
+    "language": ["Germany", "France"]
+}]

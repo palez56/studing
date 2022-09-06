@@ -1,0 +1,21 @@
+[{
+    "secondName": "Harden",
+    "name": "James",
+    "surname": "O'neal",
+    "yearOfBirth": 2008,
+    "class": 7,
+    "trainingPeriod": 9,
+    "favoriteDisciplines": ["Mathematic", "English Language"],
+    "placeOfRegistration": {
+        "country": "USA",
+        "city": "Miami",
+        "houseNumber": 19,
+        "apartamentNumber": 14
+    },
+    "placeOfResidence": {
+        "country": "USA",
+        "city": "Washington",
+        "houseNumber": 44,
+        "apartamentNumber": 32
+    }
+}]
