@@ -17,4 +17,24 @@
     "directionOfStudy": 913,
     "group": 711,
     "language": ["Germany", "France"]
+},
+{
+    "name": "Andrey",
+    "secondName": "Nemchenko",
+    "surname": "Alexandrovich",
+    "dateOfBirth": "22.01.2000",
+    "course": 3,
+    "directionOfStudy": 515,
+    "group": 11,
+    "language": ["Germany", "France"]
+},
+{
+    "name": "Alexey",
+    "secondName": "Nelasov",
+    "surname": "Petrovich",
+    "dateOfBirth": "29.09.1998",
+    "course": 4,
+    "directionOfStudy": 76,
+    "group": 911,
+    "language": ["Germany", "France"]
 }]
