@@ -1,0 +1,2 @@
+mongo shell: mongosh "mongodb+srv://lab2.b8ffy.mongodb.net/myFirstDatabase" --apiVersion 1 --username Klimenko_Anton
+mongo compass: mongodb+srv://Klimenko_Anton:<password>@lab2.b8ffy.mongodb.net/test
